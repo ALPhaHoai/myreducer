@@ -6,6 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "homepage": "https://github.com/ALPhaHoai/myreducer",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/ALPhaHoai/myreducer.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
